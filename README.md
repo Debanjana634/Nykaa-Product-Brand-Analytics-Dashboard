@@ -36,4 +36,4 @@ This Power BI dashboard analyzes Nykaa’s popular product listings to uncover a
 ---
 
 ### 📬 Connect
-For feedback or collaboration, reach out via [LinkedIn](https://www.linkedin.com).
+For feedback or collaboration, reach out via [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/debanjana-basak-04b38617a)).
